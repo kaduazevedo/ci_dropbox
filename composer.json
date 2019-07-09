@@ -1,11 +1,8 @@
 {
 	"description": "Codeigniter Dropbox Library",
 	"name": "kaduazevedo/ci_dropbox",
-	"type": "project",
+	"type": "library",
 	"homepage": "https://github.com/kaduazevedo",
 	"license": "MIT",
-	"minimum-stability": "dev",
-	"require": {
-		"codeigniter/framework": "3.1.10"
-	}
+	"minimum-stability": "dev"
 }
