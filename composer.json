@@ -4,6 +4,7 @@
 	"type": "project",
 	"homepage": "https://github.com/kaduazevedo",
 	"license": "MIT",
+	"minimum-stability": "dev",
 	"require": {
 		"codeigniter/framework": "3.1.10"
 	}
